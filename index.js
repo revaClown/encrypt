@@ -1,0 +1,3 @@
+const simple = () => {
+    alert("Success!")
+}
